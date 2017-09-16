@@ -53,5 +53,7 @@ npm install -g homebridge-ikonke-light
 }]
 ```
 ## 版本更新记录
+### 0.0.2
+1.代码优化.   
 ### 0.0.1
 1.支持控制K Light设备.   

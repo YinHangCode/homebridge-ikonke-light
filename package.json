@@ -1,7 +1,7 @@
 {
   "name": "homebridge-ikonke-light",
-  "version": "0.0.1",
-  "description": "ikonke outlet plugins for HomeBridge(https://github.com/nfarina/homebridge).",
+  "version": "0.0.2",
+  "description": "ikonke light plugins for HomeBridge(https://github.com/nfarina/homebridge).",
   "keywords": [
     "homebridge-plugin"
   ],
