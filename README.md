@@ -27,7 +27,7 @@ npm install -g homebridge-ikonke-light
 ```
 "platforms": [{
     "platform": "IkonkeLightPlatform",
-    "ikonkeIO": "/home/pi/node_modules/ikonkeIO/ikonkeIO.sh",
+    "ikonkeIO": "/home/pi/ikonkeIO/ikonkeIO.sh",
     "deviceCfgs": [{
         "type": "klight",
         "ip": "192.168.88.20",
